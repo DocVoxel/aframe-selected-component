@@ -1,3 +1,5 @@
+# Archived - not maintained!
+
 ## aframe-selected-component
 
 [![Version](http://img.shields.io/npm/v/aframe-selected-component.svg?style=flat-square)](https://npmjs.org/package/aframe-selected-component)
